@@ -11,7 +11,7 @@
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimary</item>
-        <item name="android:windowBackground">@color/background_dafult</item>
+        <item name="android:windowBackground">@color/background_default</item>
     </style>
 
     <style name="ButtonCustom">

@@ -3,7 +3,7 @@
 
     <color name="color_primary_inactive">#556E48EB</color>
     <color name="color_primary">#6E48EB</color>
-    <color name="background_dafult">#FCFCFC</color>
+    <color name="background_default">#FCFCFC</color>
 
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
