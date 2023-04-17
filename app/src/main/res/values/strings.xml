@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">ViaCEP</string>
+    <string name="app_name_database">vai_cep_database</string>
 
     <!--    SearchAddressFragment-->
     <string name="label_address_empty_search_address_fragment">Nenhum endereço encontrado\ncom o cep digitado.</string>

@@ -1,4 +1,4 @@
-package com.example.viacep.domain.repository
+package com.example.viacep.domain.api.repository
 
 import com.example.viacep.data.model.AddressResponse
 

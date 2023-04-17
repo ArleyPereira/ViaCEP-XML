@@ -5,6 +5,7 @@ import kotlinx.parcelize.Parcelize
 
 @Parcelize
 data class Address(
+    val id: Long = 0,
     val cep: String?,
     val logradouro: String?,
     val complemento: String?,
