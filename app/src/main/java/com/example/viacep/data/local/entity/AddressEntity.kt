@@ -21,6 +21,6 @@ data class AddressEntity(
     @ColumnInfo("localidade")
     val localidade: String?,
 
-    @ColumnInfo("uf")
-    val uf: String?
+    @ColumnInfo("estado")
+    val uf: String?,
 )

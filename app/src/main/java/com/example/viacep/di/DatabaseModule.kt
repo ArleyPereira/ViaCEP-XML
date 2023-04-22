@@ -22,7 +22,9 @@ class DatabaseModule {
         context,
         AppDatabase::class.java,
         context.getString(R.string.app_name_database)
-    ).build()
+    )
+        .addMigrations(AppDatabase.MIGRATION_3_4)
+        .build()
 
     @Provides
     fun providesAddressDao(database: AppDatabase): AddressDao = database.addressDao()
